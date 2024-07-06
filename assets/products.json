@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Essentiel Man's Shorts-Sleeve Crewneck T-Shirt",
+    "image": "assets/images/shirt1.png",
+    "rating": 4.0,
+    "numReviews": 2338,
+    "price": 12.00
+  },
+  {
+    "id": 2,
+    "name": "Essentiel Man's Shorts-Sleeve Crewneck T-Shirt",
+    "image": "assets/images/shirt2.png",
+    "rating": 4.0,
+    "numReviews": 2338,
+    "price": 12.00
+  },
+  {
+    "id": 3,
+    "name": "Essentiel Man's Shorts-Sleeve Crewneck T-Shirt",
+    "image": "assets/images/shirt3.png",
+    "rating": 4.0,
+    "numReviews": 2338,
+    "price": 12.00
+  },
+  {
+    "id": 4,
+    "name": "Essentiel Man's Shorts-Sleeve Crewneck T-Shirt",
+    "image": "assets/images/shirt4.png",
+    "rating": 4.0,
+    "numReviews": 2338,
+    "price": 12.00
+  },
+  {
+    "id": 5,
+    "name": "Casual Slim Fit Cotton T-Shirt",
+    "image": "assets/images/shirt1.png",
+    "rating": 4.5,
+    "numReviews": 1450,
+    "price": 15.00
+  },
+  {
+    "id": 6,
+    "name": "Casual Slim Fit Cotton T-Shirt",
+    "image": "assets/images/shirt2.png",
+    "rating": 4.5,
+    "numReviews": 1450,
+    "price": 15.00
+  },
+  {
+    "id": 7,
+    "name": "Casual Slim Fit Cotton T-Shirt",
+    "image": "assets/images/shirt3.png",
+    "rating": 4.5,
+    "numReviews": 1450,
+    "price": 15.00
+  },
+  {
+    "id": 8,
+    "name": "Casual Slim Fit Cotton T-Shirt",
+    "image": "assets/images/shirt4.png",
+    "rating": 4.5,
+    "numReviews": 1450,
+    "price": 15.00
+  },
+  {
+    "id": 9,
+    "name": "Sporty Casual Polo T-Shirt",
+    "image": "assets/images/shirt1.png",
+    "rating": 4.2,
+    "numReviews": 1890,
+    "price": 18.50
+  },
+  {
+    "id": 10,
+    "name": "Sporty Casual Polo T-Shirt",
+    "image": "assets/images/shirt2.png",
+    "rating": 4.2,
+    "numReviews": 1890,
+    "price": 18.50
+  },
+  {
+    "id": 11,
+    "name": "Sporty Casual Polo T-Shirt",
+    "image": "assets/images/shirt3.png",
+    "rating": 4.2,
+    "numReviews": 1890,
+    "price": 18.50
+  },
+  {
+    "id": 12,
+    "name": "Sporty Casual Polo T-Shirt",
+    "image": "assets/images/shirt4.png",
+    "rating": 4.2,
+    "numReviews": 1890,
+    "price": 18.50
+  },
+  {
+    "id": 13,
+    "name": "Classic V-Neck Sweater",
+    "image": "assets/images/shirt1.png",
+    "rating": 4.8,
+    "numReviews": 920,
+    "price": 29.99
+  },
+  {
+    "id": 14,
+    "name": "Classic V-Neck Sweater",
+    "image": "assets/images/shirt2.png",
+    "rating": 4.8,
+    "numReviews": 920,
+    "price": 29.99
+  },
+  {
+    "id": 15,
+    "name": "Classic V-Neck Sweater",
+    "image": "assets/images/shirt1.png",
+    "rating": 4.8,
+    "numReviews": 920,
+    "price": 29.99
+  },
+  {
+    "id": 16,
+    "name": "Classic V-Neck Sweater",
+    "image": "assets/images/shirt2.png",
+    "rating": 4.8,
+    "numReviews": 920,
+    "price": 29.99
+  }
+]

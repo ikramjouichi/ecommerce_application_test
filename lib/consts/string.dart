@@ -1,0 +1,13 @@
+const login="Login",
+    email="Email",
+    welcome ="Welcom ",
+    loginTo =" Login to your account",
+    password="Password",
+    logout = "Logout",
+    forgetPassword="Forget Password ?",
+    emailHint="your.email@gmail.com",
+    passwordHint="* * * * * *",
+    createAccount = "Create an Account";
+const inscription ="Inscription",
+    name = "Full Name",
+    phone= "Phone";
