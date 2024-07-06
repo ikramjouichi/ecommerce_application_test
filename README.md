@@ -1,5 +1,8 @@
 # ecommerce_application_test
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9bac40f2d643632bd15e843f140513f6ad90746e
 
 A new Flutter project.
 
@@ -15,6 +18,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 =======
 E-commerce app avec flutter et dart , lié avec firebase
 >>>>>>> b552a4ed9a23ac55fe6352c6dca6436d86531833
+=======
+>>>>>>> 9bac40f2d643632bd15e843f140513f6ad90746e
